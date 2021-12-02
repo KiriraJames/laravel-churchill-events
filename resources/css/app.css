@@ -1,0 +1,9 @@
+a, a:visited {
+    text-decoration: none;
+}
+
+@media (min-width: 768px) {
+    .fixed-posi {
+        position:fixed;
+    }
+}
